@@ -29,7 +29,7 @@ The unitary gates are native gates to trapped-ion devices, as introduced in the 
 - the folder "scripts" contains example scripts: 
 	- generate_circuit.py: generate random circuits for a list of $L$'s and $p$
 	- histogram.py: compute the numerator and denominator in the definition of the cross entropy (see Eq. (7) in the paper); generate measurement outcome dataset
-	- cross_entropy.py: simulate $M_C$ random circuit realizations and compute the cross entropy $chi_C$ for each circuit realization by sampling $M$ measurement outcomes
+	- cross_entropy.py: simulate $M_C$ random circuit realizations and compute the cross entropy $\chi_C$ for each circuit realization by sampling $M$ measurement outcomes
 
 
 ### RNN models
